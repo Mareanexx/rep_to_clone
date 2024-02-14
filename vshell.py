@@ -10,6 +10,8 @@ def read_args():
         args.append(arg)
     return args
 
+def hello():
+    print("hello world")
 
 def vshell(zip_file):
 
